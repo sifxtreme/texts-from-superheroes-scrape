@@ -1,0 +1,12 @@
+{
+  "name"         : "superhero web scraper",
+  "version"      : "0.0.1",
+  "description"  : "Scrape texts from superheros",
+  "main"         : "server.js",
+  "author"       : "Asif Ahmed",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
